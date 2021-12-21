@@ -1,0 +1,26 @@
+header {
+	margin-top:0%;
+	height: 50px;
+	width: 100%;
+	border:none;
+	background-color: #1f0d81;
+	/* display: inline-flexbox; */
+	/* trying to align nav list */
+
+}
+
+/* <div>
+  <ul class="navbar">
+  .nav.navbar a {
+	color: white;
+  } */
+
+ul {
+	text-align: right;
+	/* text-decoration-line:underline; */
+
+}
+
+ul { 
+		color:white;
+}
